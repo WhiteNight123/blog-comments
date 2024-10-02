@@ -1,1 +1,1 @@
-# -blog-comments
+**您可以通过提交Issue的方式发表评论**
